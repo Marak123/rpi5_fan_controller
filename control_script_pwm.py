@@ -1,3 +1,12 @@
+########################################################
+#
+#  Created by: Marak123
+#
+#  Source: 
+#
+########################################################
+
+
 from sys import exit as sysexit
 from os import _exit as osexit
 from subprocess import run as srun, PIPE
